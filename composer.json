@@ -1,0 +1,12 @@
+{
+    "name": "petersharp/html-to-wp-page",
+    "authors": [
+        {
+            "name": "Peter Sharp",
+            "email": "peter@webmad.co.nz"
+        }
+    ],
+    "require": {
+      "sunra/php-simple-html-dom-parser": "1.5.1"
+    }
+}
